@@ -1,0 +1,1812 @@
+[
+  {
+    "id": 1907442,
+    "date": "2019-11-05T04:15:28",
+    "date_gmt": "2019-11-05T12:15:28",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1907442"
+    },
+    "modified": "2019-11-05T04:39:35",
+    "modified_gmt": "2019-11-05T12:39:35",
+    "slug": "slack-fund-haystack-and-crv-invest-4-million-in-parabol-the-meta-meeting-software-toolkit",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/05/slack-fund-haystack-and-crv-invest-4-million-in-parabol-the-meta-meeting-software-toolkit/",
+    "title": {
+      "rendered": "Slack Fund, Haystack and CRV invest $4 million in Parabol, the meta-meeting software toolkit"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\">These days it&#8217;s not enough to have meetings. Now tech companies need to have meetings about meetings &#8212; and to ensure that this can happen efficiently(?), a Los Angeles company called<a href=\"https://www.parabol.co/\"> Parabol</a> has just raised $4 million.</p>\n<p>Founded in Brooklyn with a workforce that&#8217;s mostly virtual, the new-ish company managed to raise cash from three firms which know a thing or two about enterprise operations &#8212; <a href=\"https://www.crv.com/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.crv.com/&amp;source=gmail&amp;ust=1572889838964000&amp;usg=AFQjCNE8ac3OL7EIBDDoxeRRYnB5W0cwKg\">CRV</a>, <a href=\"http://haystack.vc/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://haystack.vc/&amp;source=gmail&amp;ust=1572889838964000&amp;usg=AFQjCNHQh750Bn5KHZbT8Ti3Ac6d-jQ_tg\">Haystack</a>, and the <a href=\"https://slack.com/developers/fund\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://slack.com/developers/fund&amp;source=gmail&amp;ust=1572889838964000&amp;usg=AFQjCNG8er8utOgxdxRjIYYO0iNDDgtQvw\">SlackFund</a>.</p>\n<p>Parabol&#8217;s software allow distributed and in-house teams to talk about how effective different processes and meetings have been.</p>\n<p>The company says that over 500 organizations use the company&#8217;s suite of software services.</p>\n<p>Think of it as a programmatic view of structuring a meeting and feedback &#8212; &#8220;Robert&#8217;s Rules of Order&#8221; for the Internet age.</p>\n<p>&#8220;There are about 20 million engineers that run the agile development process today,&#8221; says Parabol founder and chief executive, Jordan Husney. &#8220;In the past everyone would show up to the same office and they would have these highly structured meetings. But as soon as great video conferencing software developed people started thinking more openly about labor and started hiring people all around the world.&#8221;</p>\n<p>These distributed workforces required even more organizational structure for their meetings as they collaborated on projects, Husney said. This is especially true for adherents to the agile development process, who break down work into sprints that then need to be assessed, he said.</p>\n<p>“Parabol was created so that every meeting held amongst team members is actually worth the time invested. With the support of <a class=\"crunchbase-link\" href=\"https://crunchbase.com/organization/crvvc\" target=\"_blank\" data-type=\"organization\" data-entity=\"crvvc\">CRV <span class=\"crunchbase-tooltip-indicator\"></span></a> and <a class=\"crunchbase-link\" href=\"https://crunchbase.com/organization/haystack-5\" target=\"_blank\" data-type=\"organization\" data-entity=\"haystack-5\">Haystack, <span class=\"crunchbase-tooltip-indicator\"></span></a> we will make Parabol useful to more kinds of teams, and scale Parabol’s infrastructure to match our rate of growth,” said the company&#8217;s chief executive and founder, Jordan Husney, in a statement.</p>\n<p>The tools Parabol developed allow workers to conduct retrospective meetings and check-ins, the company said.</p>\n<p>The software allows teams to work through five, structured meeting phases where teams evaluate their processes and make improvements at the end of a project, said the company.</p>\n<p>“Parabol is transforming the way agile teams across industries work together,” said Izhar Armony, Partner at CRV, in a statement. “We’ve been tracking the rapidly rising need for teams to collaborate at a distance, and believe in the way Parabol is enabling people to meet and work more effectively together.”</p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>These days it&#8217;s not enough to have meetings. Now tech companies need to have meetings about meetings &#8212; and to ensure that this can happen efficiently(?), a Los Angeles company called Parabol has just raised $4 million. Founded in Brooklyn with a workforce that&#8217;s mostly virtual, the new-ish company managed to raise cash from three [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 59254947,
+    "featured_media": 1834072,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Slack Fund, Haystack and CRV invest $4 million in Parabol, the meta-meeting software toolkit https://tcrn.ch/36Aqe3O by @jshieber"
+    },
+    "categories": [
+      17396
+    ],
+    "tags": [
+      1163985,
+      1232015,
+      3798331,
+      449551094
+    ],
+    "crunchbase_tag": [
+      576603373
+    ],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1051594342-1.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/36Aqe3O",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [
+      {
+        "slug": "haystack",
+        "cb_name": "Haystack",
+        "cb_slug": "haystack-5-organization",
+        "cb_link": "https://crunchbase.com/organization/haystack-5"
+      },
+      {
+        "slug": "crv",
+        "cb_name": "CRV",
+        "cb_slug": "crvvc-organization",
+        "cb_link": "https://crunchbase.com/organization/crvvc"
+      },
+      {
+        "slug": "slack-fund",
+        "cb_name": "Slack Fund",
+        "cb_slug": "slack-fund-organization",
+        "cb_link": "https://crunchbase.com/organization/slack-fund"
+      }
+    ],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      59254947
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1907442"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1907442"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1907442/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908321,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1907442/revisions/1908321"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/59254947"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1907442&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/59254947"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1834072"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1907442"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1907442"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1907442"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1907442"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1907442"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1907442"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1908299,
+    "date": "2019-11-05T04:03:25",
+    "date_gmt": "2019-11-05T12:03:25",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1908299"
+    },
+    "modified": "2019-11-05T04:04:33",
+    "modified_gmt": "2019-11-05T12:04:33",
+    "slug": "uk-drone-register-takes-off",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/05/uk-drone-register-takes-off/",
+    "title": {
+      "rendered": "UK drone register takes off"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\">A UK drone registration scheme <a href=\"https://register-drones.caa.co.uk\">has opened</a> ahead of the deadline for owners to register their devices coming into force at the end of this month.</p>\n<p>The UK government announced its intention to introduce a drone registration scheme <a href=\"https://techcrunch.com/2017/07/22/drone-registration-coming-to-the-uk/\">two years ago</a>.</p>\n<p>The rules apply to drones or model aircraft weighting between 250g and 20kg.</p>\n<p>Owners of drones wanting to fly the device themselves must also take and pass a theory test to gain a flyer ID by November 30. Anyone who wishes to fly a drone owned by someone else must also first obtain a flyer ID by passing the theory test.</p>\n<p>UK ministers have come in for serious criticism for lagging on drone regulations in recent years after a spate of drone sightings at the country&#8217;s busiest airport grounded flights <a href=\"https://techcrunch.com/2018/12/20/drones-ground-flights-at-uks-second-largest-airport/\">last December</a>, disrupting thousands of travellers. In <a href=\"https://techcrunch.com/2019/01/08/drone-sighting-halts-flights-at-uks-heathrow-airport/\">January</a> flights were also briefly halted at Heathrow airport after another unidentified drone sighting.</p>\n<p>This fall the police investigation into the Gatwick drone shutdown <a href=\"https://techcrunch.com/2019/09/27/last-years-gatwick-drone-attack-involved-at-least-two-drones-say-police/\">found</a> that at least two drones had been involved. In September police also said they had been unable to identify any suspects &#8212; ruling out 96 people of interest.</p>\n<p>Following the Gatwick disruption the government tightened <a href=\"https://techcrunch.com/2018/07/30/psa-drone-flight-restrictions-are-in-force-in-the-uk-from-today/\">existing laws</a> around drone flights near airports &#8212; extending a no-fly zone from <a href=\"https://techcrunch.com/2019/02/20/uks-extended-5km-airport-drone-no-fly-zones-in-force-next-month/\">1km to 5km</a>. But a full drone bill, originally slated for introduction this year, has yet to take off.</p>\n<p>As well as introducing a legal requirement for drone owners to register their craft via the <a href=\"https://register-drones.caa.co.uk/individual\">Civil Aviation Authority&#8217;s website</a> by November 30, the new stop-gap rules require organizations that use drones to register for an operator ID too, also at a cost of £9 per year.</p>\n<p>All drones must also be labeled with the operator ID. This must be clearly visible on the main body of the craft, and easy to read when it&#8217;s on the ground, written in block capital letters taller than 3mm high.</p>\n<p>The registered person who obtains the operator ID must be aged 18 or older and is accountable for managing drones to ensure only individuals with a flyer ID fly them.</p>\n<p>Individuals must be aged 13 or older to obtain a flyer ID.</p>\n<p>The online test for obtaining the flyer ID involves answering 20 multiple choice questions. The pass mark for the test is set at 16. There&#8217;s no limit on how many times the test can be taken.</p>\n<p>The Civil Aviation Authority says everything needed to pass the test can be found in <a href=\"https://register-drones.caa.co.uk/drone-code\">The Drone and Model Aircraft Code</a>. There&#8217;s no charge for taking the test or obtaining the flyer ID.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>A UK drone registration scheme has opened ahead of the deadline for owners to register their devices coming into force at the end of this month. The UK government announced its intention to introduce a drone registration scheme two years ago. The rules apply to drones or model aircraft weighting between 250g and 20kg. Owners [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 39990176,
+    "featured_media": 1770990,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "UK drone register takes off https://tcrn.ch/2pwwTeF by @riptari"
+    },
+    "categories": [
+      449557100,
+      449557086
+    ],
+    "tags": [
+      576596313,
+      583492,
+      576595787,
+      449552638,
+      137903,
+      2522,
+      576602794,
+      449557035,
+      4214723
+    ],
+    "crunchbase_tag": [],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/01/Drone-over-field.png",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/2pwwTeF",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      39990176
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908299"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1908299"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908299/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908315,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908299/revisions/1908315"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/39990176"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1908299&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/39990176"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1770990"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1908299"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1908299"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1908299"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1908299"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1908299"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1908299"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1908297,
+    "date": "2019-11-05T03:45:39",
+    "date_gmt": "2019-11-05T11:45:39",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1908297"
+    },
+    "modified": "2019-11-05T04:29:16",
+    "modified_gmt": "2019-11-05T12:29:16",
+    "slug": "xiaomi-smartwatch-launch",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/05/xiaomi-smartwatch-launch/",
+    "title": {
+      "rendered": "Xiaomi launches Mi Watch, its $185 Apple Watch clone"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\"><a class=\"crunchbase-link\" href=\"https://crunchbase.com/organization/xiaomi\" target=\"_blank\" data-type=\"organization\" data-entity=\"xiaomi\">Xiaomi, <span class=\"crunchbase-tooltip-indicator\"></span></a> which <a href=\"https://techcrunch.com/2019/03/05/idc-apple-led-wearables-market-in-2018-with-46-2m-of-the-total-172-2m-devices-shipped/\">competes with Apple for the top position in the wearable market</a>, today made the competition a little more interesting. The Chinese electronics giant has launched its first smartwatch called the Mi Watch that looks strikingly similar to <a href=\"https://techcrunch.com/2019/09/18/apple-watch-series-5-review/\">the Apple Watch</a> in its home market.</p>\n<p>The Mi Watch, like the Apple Watch, has a square body with a crown and a button. It sports a 1.78-inch AMOLED display (326 ppi) that offers the always-on capability and runs MIUI for Watch, the company&#8217;s homegrown wearable operating system based on Google&#8217;s Wear OS.</p>\n<p>Inside the metal housing &#8212; aluminum alloy with a matte finish &#8212; are microphones on two sides for recording audio and taking calls, and a loudspeaker on the left to listen to music or incoming calls. The Mi Watch, which comes in one size &#8212; 44mm &#8212; has a ceramic back, which is where the charging pins and a heart rate sensor are also placed.</p>\n<p>The Mi Watch is powered by Qualcomm’s Snapdragon Wear 3100 4G chipset with four Cortex A7 cores clocked at 1.2GHz, coupled with 1GB of RAM and 8GB storage. The company says its first smartwatch supports cellular connectivity (through an eSIM), Wi-Fi, GPS, Bluetooth, and NFC for payments. The Mi Watch should last for 36 hours on a single charge on cellular mode, the company claimed.</p>\n<p>The Mi Watch will also help users track their sleep, performance while swimming, cycling and running, and also measure their heart rate.</p>\n<p>Over 40 popular Chinese apps such as TikTok and QQ Messenger are available for the Mi Watch on day one. The company’s own XiaoAI assistant is the default virtual digital assistant on the watch.</p>\n<p>The Mi Watch is priced at CNY 1,299 ($185) and will go on sale in the country next week. There’s no word on international availability just yet, but if the past is any indication, Xiaomi will likely bring the device to India, Singapore, Indonesia and other markets in coming quarters.</p>\n<p>The company says a variant of the Mi Watch that sports a sapphire glass and stainless steel will go on sale next month in China. It is priced at CNY 1,999 ($285).</p>\n<p>Xiaomi is no stranger to the wearable market. The company&#8217;s fitness trackers &#8212; that <a href=\"https://techcrunch.com/2019/06/12/xiaomi-mi-smart-band-4-gadgets/\">cost under $25 and sport colorful displays</a> and <a href=\"https://techcrunch.com/2018/05/31/xiaomi-mi-band-3/\">last for weeks on a single charge</a> &#8212; are incredibly popular in Asian markets.</p>\n<p>This is also not the first time Xiaomi has been accused of taking <a href=\"https://www.nytimes.com/2013/06/05/business/global/in-china-an-empire-built-by-aping-apple.html?_r=0\">too much inspiration from Apple</a>. The early smartphones from Xiaomi looked very similar to the iPhones. But in recent years, its products have carried a little more independence and originality. Well, most smartphones &#8212; <a href=\"https://techcrunch.com/2018/05/31/xiaomis-mi-8-may-be-its-most-brazen-iphone-copycat-yet/\">not all</a>. Also this year, the company was accused of <a href=\"https://venturebeat.com/2019/07/02/xiaomi-threatens-writers-over-mimoji-apps-overlap-with-apples-memoji/\">cloning Apple&#8217;s cartoony Memoji</a>.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Xiaomi, which competes with Apple for the top position in the wearable market, today made the competition a little more interesting. The Chinese electronics giant has launched its first smartwatch called the Mi Watch that looks strikingly similar to the Apple Watch in its home market. The Mi Watch, like the Apple Watch, has a [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 133574269,
+    "featured_media": 1908302,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Xiaomi unveils Mi Watch, its $185 Apple Watch clone https://tcrn.ch/2JQqVfy by @refsrc"
+    },
+    "categories": [
+      449557111,
+      449557086,
+      449223024
+    ],
+    "tags": [
+      641922,
+      36265994,
+      61334014
+    ],
+    "crunchbase_tag": [],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/11/xiaomi_watch_3.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/2JQqVfy",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [
+      {
+        "slug": "xiaomi",
+        "cb_name": "Xiaomi",
+        "cb_slug": "xiaomi-organization",
+        "cb_link": "https://crunchbase.com/organization/xiaomi"
+      },
+      {
+        "slug": "android",
+        "cb_name": "Android",
+        "cb_slug": "android-organization",
+        "cb_link": "https://crunchbase.com/organization/android"
+      }
+    ],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      133574269
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908297"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1908297"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 10,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908297/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908319,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908297/revisions/1908319"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/133574269"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1908297&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/133574269"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1908302"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1908297"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1908297"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1908297"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1908297"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1908297"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1908297"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1905868,
+    "date": "2019-11-05T01:18:28",
+    "date_gmt": "2019-11-05T09:18:28",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1905868"
+    },
+    "modified": "2019-11-04T01:19:57",
+    "modified_gmt": "2019-11-04T09:19:57",
+    "slug": "only-4-days-left-for-early-bird-savings-on-passes-to-disrupt-berlin-2019",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/05/only-4-days-left-for-early-bird-savings-on-passes-to-disrupt-berlin-2019/",
+    "title": {
+      "rendered": "Only 4 days left for early bird savings on passes to Disrupt Berlin 2019"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\">The countdown to serious savings continues here at TechCrunch, and this is a timely reminder that you that you have only four days left to save on early bird passes to <a href=\"https://techcrunch.com/events/disrupt-berlin-2019\">Disrupt Berlin 2019</a> (11-12 December). Kommst du nun, oder was — you are coming, aren&#8217;t you?</p>\n<p>Pricing starts at €445 + VAT and, depending on which pass you buy, you can save as much as €500. Das ist gut! If you want to reap the savings, you need to <a href=\"https://techcrunch.com/events/disrupt-berlin-2019/tickets/\">buy your early bird pass</a> before the deadline: <strong>8 November at 11:59 p.m. (CEST)</strong><strong>. </strong></p>\n<p>Let’s talk about some of the reasons so many people attend Disrupt Berlin. It’s an opportunity to connect with and learn from an international community of early-stage startuppers — founders, investors, engineers, marketers and more. Be inspired by both your contemporaries and by the folks who’ve paved the way, achieved success and want to share their insights.</p>\n<p>Don’t take our (admittedly biased) word for it. Here’s what some of your peers have to say about their time at Disrupt.</p>\n<ul>\n<li>“Disrupt Berlin was a massively positive experience. It gave us the chance to show our technology to the world and have meaningful conversations with investors, accelerators, incubators, solo founders and developers.” —  Vlad Larin, co-founder of <a href=\"https://zeroqode.com/\">Zeroqode</a>.</li>\n<li>“I was very pleasantly surprised at the number of early-stage startups in attendance. Disrupt is a very good conference, and you’ll make a lot of connections very quickly that you wouldn’t be able to do otherwise.” — Michael Kocan, co-found and managing partner, <a href=\"https://www.trenddiscovery.com/\">Trend Discovery</a>.</li>\n<li>“Disrupt helps you connect with the startup community. You can meet investors and bigger players in your industry to see if there’s an opportunity to work together. TechCrunch Disrupt is unique and incredibly valuable, because it brings everyone — all the industry touch points — together under one roof.” — Sage Wohns, co-founder, <a href=\"https://www.agolo.com/\">Agolo</a>.</li>\n</ul>\n<p>Get ready to hear from <a href=\"https://techcrunch.com/events/disrupt-berlin-2019/#29558db8-e672-4ed4-9d4b-511d5c552053\">a stellar group of speakers</a> on both the Main and <a href=\"https://techcrunch.com/2019/06/25/learn-how-to-at-the-extra-crunch-stage-at-disrupt-berlin-2019/\">Extra Crunch</a> stages — or in our <a href=\"https://techcrunch.com/2019/07/04/qa-sessions-return-to-disrupt-berlin-2019/\">Q&amp;A Sessions</a>. Start planning now by perusing the <a href=\"https://techcrunch.com/events/disrupt-berlin-2019/#1693abe1-a7a7-4d80-b7c7-12a6daa5c3f0\">Disrupt Berlin agenda</a>, and don’t be surprised if we add a few more surprise speakers to it in the coming weeks.</p>\n<p>You certainly won’t want to miss out on <a href=\"https://techcrunch.com/startup-battlefield/\">Startup Battlefield</a>, our thrilling pitch competition with a $50,000 prize. And be sure to catch <a href=\"https://techcrunch.com/events/disrupt-berlin-2019/hackathon/\">the Hackathon</a> finalists on the Extra Crunch stage as they pitch products they designed, coded and created in roughly 24 hours. Who will win the $5,000 prize for best overall hack?</p>\n<p><a href=\"https://techcrunch.com/events/disrupt-berlin-2019\">Disrupt Berlin 2019</a> takes place on 11-12 December, but you have only four days left to take advantage of early bird pricing. Beat the deadline — <strong>8 November at 11:59 p.m. (CEST)</strong> deadline, <a href=\"https://techcrunch.com/events/disrupt-berlin-2019/tickets/\">buy your passes and save</a> up to €500. Kommst du nun, oder was — you are coming, aren&#8217;t you?</p>\n<p><em>Is your company interested in sponsoring or exhibiting at Disrupt Berlin 2019? Contact our sponsorship sales team by </em><a href=\"http://info.techcrunch.com/SponsorshipsInterest.html\"><em>filling out this form</em></a>.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The countdown to serious savings continues here at TechCrunch, and this is a timely reminder that you that you have only four days left to save on early bird passes to Disrupt Berlin 2019 (11-12 December). Kommst du nun, oder was — you are coming, aren&#8217;t you? Pricing starts at €445 + VAT and, depending [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 24838891,
+    "featured_media": 1805940,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Only 4 days left for early bird savings on passes to Disrupt Berlin 2019 https://tcrn.ch/2JPV3rn"
+    },
+    "categories": [
+      20429
+    ],
+    "tags": [
+      576658602,
+      576658601
+    ],
+    "crunchbase_tag": [],
+    "tc_stories_tax": [],
+    "tc_event": [
+      576608071
+    ],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/04/Breakout-Session-.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/2JPV3rn",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [],
+    "associatedEvent": {
+      "ad": {
+        "display": true,
+        "title": "Prices increase in 4 days - join TechCrunch in Berlin and save €500",
+        "override_link": ""
+      },
+      "date": 1576022400,
+      "link": "https://techcrunch.com/events/disrupt-berlin-2019/",
+      "status": "pre",
+      "title": "Disrupt Berlin 2019",
+      "termID": 576608071
+    },
+    "event": 1697845,
+    "authors": [
+      24838891
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1905868"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1905868"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1905868/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1905874,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1905868/revisions/1905874"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/24838891"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1905868&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/24838891"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1805940"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1905868"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1905868"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1905868"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1905868"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1905868"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1905868"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1908285,
+    "date": "2019-11-05T00:23:41",
+    "date_gmt": "2019-11-05T08:23:41",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1908285"
+    },
+    "modified": "2019-11-05T02:46:47",
+    "modified_gmt": "2019-11-05T10:46:47",
+    "slug": "medopad-raises-25m-led-by-bayer-to-develop-biomarkers-tracked-via-apps-and-wearables",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/05/medopad-raises-25m-led-by-bayer-to-develop-biomarkers-tracked-via-apps-and-wearables/",
+    "title": {
+      "rendered": "Medopad raises $25M led by Bayer to develop biomarkers tracked via apps and wearables"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\"><a href=\"http://medopad.com\">Medopad</a>, the UK startup that has been working with Tencent to develop AI-based methods for building and tracking &#8220;digital&#8221; biomarkers &#8212; measurable indicators of the progression of illnesses and diseases that are picked up not with blood samples or in-doctor visits but using apps and wearables &#8212; has announced another round of funding to expand the scope of its developments.</p>\n<p>The startup has picked up $25 million led by pharmaceuticals giant Bayer, which will be working together with Medopad to build digital biomarkers and therapeutics related to heart health. Separately, Medopad is also working on developing diagnostics to track biomarkers related to Parkinson&#8217;s, Alzheimer&#8217;s and Diabetes.</p>\n<p>The Series B is being made at a post-money valuation of between $200 million and $300 million. In addition to Bayer, Hong Kong firm <a href=\"https://www.google.com/search?client=safari&amp;rls=en&amp;q=nws+holdings&amp;ie=UTF-8&amp;oe=UTF-8\">NWS Holdings</a> and Chicago VC <a href=\"http://www.healthbox.com/\">Healthbox</a> also participated. All three are previous investors, with NWS leading its $28 million Series A in 2018, bringing the total raised by Medopad to over $50 million.</p>\n<p>The bump in valuation &#8212; Medopad had a $110 million post-money valuation after its previous round &#8212; also comes on the heels of the company last year signing high-profile deals <a href=\"https://www.bloomberg.com/news/articles/2018-02-01/u-k-startup-medopad-signs-deals-with-tencent-and-ping-an\">totalling some $140 million</a> with a string of firms in China, including Tencent, Ping An, as well as the Chinese divisions of GSK, Johnson &amp; Johnson and more.</p>\n<p>The world where medicine mixes with tech in the name of doing things faster, better and with less expense had a big knock with the rise and calamitous fall of Theranos. The blood-testing startup claimed to have developed technology to perform a multitude of tests tracking biomarkers using only a few drops of blood &#8212; tests that used to require significantly more blood (and expense) to run accurately. Great concept, if only it weren&#8217;t a scam.</p>\n<p>Medopad also tracks biomarkers, but it&#8217;s taking a very different, non-invasive route to building its solutions. The company constructs its algorithms and tests working with pharmaceutical and tech partners to build solutions end-to-end, leaning on advances in software and hardware to fulfil ideas that have been unattainable goals for a long time.</p>\n<p>&#8220;For the past 25 years, we have been talking about connected healthcare, but no one has done it,&#8221; CEO Dan Vahdat, who co-founded the company with Rich Khatib, said in an interview. &#8220;The nature of the concept has just been too challenging. The approach is established but the computing and device technology weren&#8217;t able to detect and read these things outside of hospital settings.&#8221;</p>\n<p>In one example, a classic Parkinson&#8217;s test would have required a patient to go to into a doctor&#8217;s office for a 30-minute assessment to determine how a patient is walking. In recent times, with the advent of advanced computer vision and far better sensors on devices, a new category of digital biomarkers, as Vahdat describes them, are being created &#8212; for example, by tracking how a person is walking to measure her/his gait and other metrics &#8212; to provide similar guidance to a clinician on the patient&#8217;s progress.</p>\n<p>&#8220;These can be collected, for example, based on how you walk and talk, along with other vital signs,&#8221; he said.</p>\n<p>The startup is also working with teaching hospitals to build other clinical trials. For example, it has a partnership with the Royal Wolverhampton to better track Aortic Stenosis, when heart valves narrow and restrict blood flow.</p>\n<p>“This is a very exciting project and fits with our ethos of ‘proactive’ and ‘one to many care’ which, we think, will benefit patients and release valuable clinical time,&#8221; said Professor James Cotton at The Royal Wolverhampton NHS Trust, in a statement.</p>\n<p>Longer term, it&#8217;s also working with Janssen (a division of Johnson &amp; Johnson) a possible way of tracking early signs and progress of Alzheimers by way of cognitive tests that someone can take at home.</p>\n<p>Medopad has a healthy approach to the work it is doing reminiscent of the kind of collaboration that is typical in the world of science.</p>\n<p>&#8220;We won&#8217;t claim that we can do what others can&#8217;t, but we are using foundations that were built years ago, to discover and commercially deploy solutions via our channel,&#8221; said Vahdat. He added that Babylon in the UK and Collective Health in the UK are two companies he admires for taking a similar approach in their respective fields of doctor/patient care and health insurance.</p>\n<p>The fact that the company works so closely with Tencent and other Chinese companies is notable at a time when there is a lot of scrutiny of China and how its companies may be using or working with personal data in countries like the US and UK.</p>\n<p>Vahdat said that all patient data is only collected with consent, and if any data from Medopad is passed to its partners, it&#8217;s anonymised. A patient&#8217;s data, furthermore, does not leave the country in which it is collected.</p>\n<p>The Tencent partnership, he added, was largely to help build the company&#8217;s AI engine, with China&#8217;s massive population providing a ripe background to train machine learning algorithms.</p>\n<p>Medopad&#8217;s main asset, in any case, is not data, but the algorithms and methods it uses to collect and process digital biomarkers, he added.</p>\n<p>&#8220;We are a big believer in the fact that data is not our product,&#8221; Vahdat said. &#8220;That is something we are really proud of.&#8221;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Medopad, the UK startup that has been working with Tencent to develop AI-based methods for building and tracking &#8220;digital&#8221; biomarkers &#8212; measurable indicators of the progression of illnesses and diseases that are picked up not with blood samples or in-doctor visits but using apps and wearables &#8212; has announced another round of funding to expand [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 13119829,
+    "featured_media": 1402238,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Medopad raises $25M led by Bayer to develop biomarkers tracked via apps and wearables https://tcrn.ch/2pvzo0N by @ingridlunden"
+    },
+    "categories": [
+      424613844,
+      576596927,
+      449557100,
+      576602979,
+      20429,
+      17396
+    ],
+    "tags": [],
+    "crunchbase_tag": [],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2016/10/gettyimages-635946561.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/2pvzo0N",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      13119829
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908285"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1908285"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908285/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908296,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908285/revisions/1908296"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/13119829"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1908285&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/13119829"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1402238"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1908285"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1908285"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1908285"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1908285"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1908285"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1908285"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1908286,
+    "date": "2019-11-04T23:36:16",
+    "date_gmt": "2019-11-05T07:36:16",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1908286"
+    },
+    "modified": "2019-11-04T23:36:16",
+    "modified_gmt": "2019-11-05T07:36:16",
+    "slug": "twitter-suspends-accounts-affiliated-with-hamas-and-hezbollah",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/04/twitter-suspends-accounts-affiliated-with-hamas-and-hezbollah/",
+    "title": {
+      "rendered": "Twitter suspends accounts affiliated with Hamas and Hezbollah"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\"><a class=\"crunchbase-link\" href=\"https://crunchbase.com/organization/twitter\" target=\"_blank\" data-type=\"organization\" data-entity=\"twitter\">Twitter <span class=\"crunchbase-tooltip-indicator\"></span></a> suspended several accounts affiliated with Hamas and Hezbollah over the weekend after being repeatedly asked to do so by a bipartisan group of U.S. Representatives. The lawmakers—Josh Gottheimer (D-NJ), Tom Reed (R-NY), Max Rose (D-NY) and Brian Fitzpatrick (R-PA)—criticized the company for allowing the accounts to stay up even though Hamas and Hezbollah are designated as Foreign Terrorist Organizations by the United States government.</p>\n<p>The accounts suspended include Hamas’ English and Arabic-language accounts and ones belonging to Al-Manar, a television station linked to Hezbollah, and Hamas-affiliated news service Quds News Network.</p>\n<p><div id=\"attachment_1908287\" style=\"width: 500px\" class=\"wp-caption aligncenter\"><a href=\"https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-05-at-3.31.24-PM.png\"><img aria-describedby=\"caption-attachment-1908287\" class=\"wp-image-1908287 size-large\" src=\"https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-05-at-3.31.24-PM.png?w=490\" alt=\"Hamas' suspended English-language Twitter account\" width=\"490\" height=\"361\" srcset=\"https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-05-at-3.31.24-PM.png 490w, https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-05-at-3.31.24-PM.png?resize=150,111 150w, https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-05-at-3.31.24-PM.png?resize=300,221 300w, https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-05-at-3.31.24-PM.png?resize=50,37 50w\" sizes=\"(max-width: 490px) 100vw, 490px\" /></a><p id=\"caption-attachment-1908287\" class=\"wp-caption-text\">Hamas&#8217; suspended English-language Twitter account</p></div></p>\n<p>Twitter initially told the congressmen that it distinguishes between political and military factions of those organizations. In <a href=\"https://gottheimer.house.gov/uploadedfiles/10.22.19_gottheimer_bipartisan_reply_to_twitter_re_ftos_on_platform.pdf\">an Oct. 22 response</a>, the House members told Twitter that “this distinction is not meaningful, nor is it widely shared. Hezbollah and Hamas are terrorist organizations as designated by the United States Government. Period.”</p>\n<p>On Nov. 1, Twitter’s director of public policy in the United States and Canada Carlos Monje Jr., replied that the accounts had been suspended after a review.</p>\n<p>“Twitter’s policy is to remove or terminate all accounts it identifies as owned or operated by, or directly affiliated with, any designated foreign terrorist association. If Twitter identifies an account as affiliated with Hamas or Hizballah [sic], Twitter’s policy is to terminate that account,” he <a href=\"https://gottheimer.house.gov/uploadedfiles/twitter_nov_1_response.pdf\">wrote in a letter</a> to the congressmen.</p>\n<p>Monje added that “Twitter also takes significant steps to identify accounts that are not directly affiliated with a designated foreign terrorist organization but which nonetheless promote or support violent extremism.”</p>\n<p>Raja Adulhaq, co-founder of Quds News Network, <a href=\"https://www.wsj.com/articles/twitter-suspends-accounts-linked-to-hamas-hezbollah-11572888026\">told the Wall Street Journal </a>that three of the news agency’s accounts had been removed and described the suspensions a “clear censorship of Palestinian narratives.”</p>\n<p>The accounts’ suspension comes as social media companies, including Twitter, Facebook and YouTube, face increased scrutiny from lawmakers over what content and advertising they allow on their platform. Twitter <a href=\"https://techcrunch.com/2019/10/30/twitter-political-ad-ban/\">recently said it would stop running political ads</a>, an announcement that came after Facebook CEO Mark Zuckerberg <a href=\"https://techcrunch.com/2019/10/28/facebook-employees-vs-ad-lies/\">defended his company’s policy</a> of not fact-checking political ads while testifying in front of Congress last month.</p>\n<p>TechCrunch has contacted Twitter for comment.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Twitter suspended several accounts affiliated with Hamas and Hezbollah over the weekend after being repeatedly asked to do so by a bipartisan group of U.S. Representatives. The lawmakers—Josh Gottheimer (D-NJ), Tom Reed (R-NY), Max Rose (D-NY) and Brian Fitzpatrick (R-PA)—criticized the company for allowing the accounts to stay up even though Hamas and Hezbollah are [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 4330449,
+    "featured_media": 1827573,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Twitter suspends accounts affiliated with Hamas and Hezbollah https://tcrn.ch/2CcfIBH by @catherineshu"
+    },
+    "categories": [
+      17396
+    ],
+    "tags": [
+      49818,
+      599182
+    ],
+    "crunchbase_tag": [],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1143634272.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/2CcfIBH",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [
+      {
+        "slug": "twitter",
+        "cb_name": "Twitter",
+        "cb_slug": "twitter-organization",
+        "cb_link": "https://crunchbase.com/organization/twitter"
+      }
+    ],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      4330449
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908286"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1908286"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908286/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908289,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908286/revisions/1908289"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/4330449"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1908286&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/4330449"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1827573"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1908286"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1908286"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1908286"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1908286"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1908286"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1908286"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1908054,
+    "date": "2019-11-04T21:01:05",
+    "date_gmt": "2019-11-05T05:01:05",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1908054"
+    },
+    "modified": "2019-11-04T14:48:14",
+    "modified_gmt": "2019-11-04T22:48:14",
+    "slug": "disinformation-censorship-freedom-house",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/04/disinformation-censorship-freedom-house/",
+    "title": {
+      "rendered": "Disinformation &#8216;works better than censorship,&#8217; warns internet freedom report"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\">A rise in social media surveillance, warrantless searches of travelers&#8217; devices at the border, and the continued spread of disinformation are among the reasons why the U.S. has declined in internet freedom rankings, according to a leading non-profit watchdog.</p>\n<p>Although Freedom House said that the U.S. enjoys some of the greatest internet freedoms in the world, its placement in the worldwide rankings declined for the third year in a row. Last year&#8217;s single-point drop was blamed on <a href=\"https://techcrunch.com/2018/10/31/united-states-drops-internet-freedoms-fake-news-net-neutrality/\">the repeal of net neutrality</a>.</p>\n<p>Iceland and Estonia remained at the top of the charts, according to the rankings, with China and Iran ranking with the least free internet.</p>\n<p>The report said that digital platforms, including social media, have emerged as the &#8220;new battleground&#8221; for democracy, where governments would traditionally use censorship and site-blocking technologies. State and partisan actors have used disinformation and propaganda to distort facts and opinions during elections in dozens of countries over the past year, including the 2018 U.S. midterm elections and the 2019 European Parliament elections.</p>\n<p>&#8220;Many governments are finding that on social media, propaganda works better than censorship,” said Mike Abramowitz, president of Freedom House.</p>\n<p><div id=\"attachment_1908058\" style=\"width: 1034px\" class=\"wp-caption aligncenter\"><img aria-describedby=\"caption-attachment-1908058\" class=\"breakout wp-image-1908058 size-full\" src=\"https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-5.04.41-PM.jpg\" alt=\"\" width=\"1024\" height=\"663\" srcset=\"https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-5.04.41-PM.jpg 1900w, https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-5.04.41-PM.jpg?resize=150,97 150w, https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-5.04.41-PM.jpg?resize=300,194 300w, https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-5.04.41-PM.jpg?resize=768,498 768w, https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-5.04.41-PM.jpg?resize=680,441 680w, https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-5.04.41-PM.jpg?resize=50,32 50w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p id=\"caption-attachment-1908058\" class=\"wp-caption-text\">Freedom House&#8217;s 2019 internet freedom rankings. (Image: Freedom House)</p></div></p>\n<p>Disinformation — or &#8220;fake news&#8221; as described by some — has become a major headache for both governments and private industry. As the spread of deliberately misleading and false information has become more prevalent, lawmakers have threatened to <a href=\"https://techcrunch.com/2019/08/15/us-legislator-david-cicilline-joins-international-push-to-interrogate-platform-power/\">step in to legislate</a> against the problem.</p>\n<p>But as some governments — including the U.S. — have tried to stop the spread of disinformation, Freedom House accused some global leaders — including the U.S. — of &#8220;co-opting&#8221; social media platforms for their own benefit. Both the U.S. and China are among the 40 countries that have expanded their monitoring of social media platforms, the report said.</p>\n<p>&#8220;Law enforcement and immigration agencies expanded their surveillance of the public, eschewing oversight, transparency, and accountability mechanisms that might restrain their actions,&#8221; the report said.</p>\n<p>The encroachment on personal privacy, such as the warrantless searching of travelers&#8217; phones without court-approved warrants, also contributed to the U.S.&#8217; decline.</p>\n<p>Several stories in the last year revealed how border authorities would <a href=\"https://techcrunch.com/2019/08/27/border-deny-entry-united-states-social-media/\">deny entry</a> to travelers for the content of social media posts made by other people, following <a href=\"https://techcrunch.com/2019/06/01/u-s-state-department-begins-social-media-screening-for-nearly-all-visa-applicants/\">changes to rules</a> that compelled visa holders to disclose their social media handles at the border.</p>\n<p>“The future of internet freedom rests on our ability to fix social media,” said Adrian Shahbaz, the non-profit&#8217;s research director for technology and democracy.</p>\n<p>Given that most social media platforms are based in the U.S., Shahbaz said the U.S. has to be a &#8220;leader&#8221; in promoting transparency and accountability.</p>\n<p>&#8220;This is the only way to stop the internet from becoming a Trojan horse for tyranny and oppression,&#8221; he said.</p>\n<div class=\"embed breakout\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"sS7x1PURiQ\"><p><a href=\"https://techcrunch.com/2019/07/05/bad-month-for-the-internet/\">It was a really bad month for the internet</a></p></blockquote>\n<p><iframe title=\"&#8220;It was a really bad month for the internet&#8221; &#8212; TechCrunch\" class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" src=\"https://techcrunch.com/2019/07/05/bad-month-for-the-internet/embed/#?secret=sS7x1PURiQ\" data-secret=\"sS7x1PURiQ\" width=\"800\" height=\"450\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>A rise in social media surveillance, warrantless searches of travelers&#8217; devices at the border, and the continued spread of disinformation are among the reasons why the U.S. has declined in internet freedom rankings, according to a leading non-profit watchdog. Although Freedom House said that the U.S. enjoys some of the greatest internet freedoms in the [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 133574210,
+    "featured_media": 1908060,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Disinformation &#8216;works better than censorship,&#8217; warns internet freedom report https://tcrn.ch/2WJUTaf by @zackwhittaker"
+    },
+    "categories": [
+      15986864,
+      13217,
+      21587494
+    ],
+    "tags": [
+      449551325,
+      449560103,
+      449548626,
+      194373,
+      46227,
+      3279,
+      83162,
+      49818,
+      576596359,
+      449554533
+    ],
+    "crunchbase_tag": [],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1129660767.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/2WJUTaf",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "U.S. drops in internet freedom rankings for third year",
+    "seoDescription": "\"Many governments are finding that on social media, propaganda works better than censorship.\"",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      133574210
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908054"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1908054"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908054/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908084,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908054/revisions/1908084"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/133574210"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1908054&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/133574210"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1908060"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1908054"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1908054"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1908054"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1908054"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1908054"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1908054"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1908207,
+    "date": "2019-11-04T19:30:33",
+    "date_gmt": "2019-11-05T03:30:33",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1908207"
+    },
+    "modified": "2019-11-04T19:23:30",
+    "modified_gmt": "2019-11-05T03:23:30",
+    "slug": "gradeup-times-internet-india",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/04/gradeup-times-internet-india/",
+    "title": {
+      "rendered": "Gradeup raises $7M to expand its online exam preparation platform to smaller Indian cities and towns"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\">Gradeup, an edtech startup in India that operates an exam preparation platform for undergraduate and postgraduate level courses, has raised $7 million from Times Internet as it looks to expand its business in the country.</p>\n<p>Times Internet, a conglomerate in India, invested $7 million in Series A and $3 million in Seed financing rounds of the four-year-old Noida-based startup, it said. Times Internet is the only external investor in Gradeup, they said.</p>\n<p><a href=\"https://gradeup.co\">Gradeup</a> started as a community for students to discuss their upcoming exams, and help one another with solving questions, said Shobhit Bhatnagar, cofounder and CEO of Gradeup, in an interview with TechCrunch.</p>\n<p>While those functionalities continue to be available on the platform, Gradeup has expanded to offer online courses from teachers to help students prepare for exams in last one year, he said. These courses, depending on their complexity and duration, cost anywhere between Rs 5,000 ($70) and Rs 35,000 ($500).</p>\n<p><img class=\"breakout alignnone size-full wp-image-1908208\" src=\"https://techcrunch.com/wp-content/uploads/2019/11/engineering-exam.jpg\" alt=\"\" width=\"1024\" height=\"649\" srcset=\"https://techcrunch.com/wp-content/uploads/2019/11/engineering-exam.jpg 2290w, https://techcrunch.com/wp-content/uploads/2019/11/engineering-exam.jpg?resize=150,95 150w, https://techcrunch.com/wp-content/uploads/2019/11/engineering-exam.jpg?resize=300,190 300w, https://techcrunch.com/wp-content/uploads/2019/11/engineering-exam.jpg?resize=768,487 768w, https://techcrunch.com/wp-content/uploads/2019/11/engineering-exam.jpg?resize=680,431 680w, https://techcrunch.com/wp-content/uploads/2019/11/engineering-exam.jpg?resize=50,32 50w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></p>\n<p>“These are live lectures that are designed to replicate the offline experience,” he said. The startup offers dozens of courses and runs multiple sessions in English and Hindi languages. As many as 200 students tune into a class simultaneously, he said.</p>\n<p>Students can interact with the teacher through a chatroom. Each class also has a “student success rate” team assigned to it that follows up with each student to check if they had any difficulties in learning any concept and take their feedback. These extra efforts have helped Gradeup see more than 50% of its students finish their courses &#8212; an industry best, Bhatnagar said.</p>\n<p>Each year in India, more than 30 million students appear for competitive exams. A significant number of these students enroll themselves to tuitions and other offline coaching centers.</p>\n<p>“India has over 200 million students that spend over $90 billion on different educational services. These have primarily been served offline, where the challenge is maintaining high quality while expanding access,” said Satyan Gajwani, Vice Chairman of Times Internet.</p>\n<p>In recent years, a number of edtech startups have emerged in the country to cater to larger audiences and make access to courses cheaper. Byju’s, backed by Naspers and<a href=\"https://techcrunch.com/2018/12/17/byjus-raises-540-million/\"> valued at over $5.5 billion</a>, offers a wide-ranging self-learning courses. Vedantu, a Bangalore-based startup that <a href=\"https://techcrunch.com/2019/08/29/indias-vedantu-raises-42m-to-expand-its-live-and-interactive-online-tutoring-platform/\">raised $42 million in late August</a>, offers a mix of recorded and live and interactive courses.</p>\n<p><div id=\"attachment_1908209\" style=\"width: 1034px\" class=\"wp-caption aligncenter\"><img aria-describedby=\"caption-attachment-1908209\" class=\"breakout wp-image-1908209 size-full\" src=\"https://techcrunch.com/wp-content/uploads/2019/11/gradeup_founders.jpg\" alt=\"\" width=\"1024\" height=\"576\" srcset=\"https://techcrunch.com/wp-content/uploads/2019/11/gradeup_founders.jpg 3000w, https://techcrunch.com/wp-content/uploads/2019/11/gradeup_founders.jpg?resize=150,84 150w, https://techcrunch.com/wp-content/uploads/2019/11/gradeup_founders.jpg?resize=300,169 300w, https://techcrunch.com/wp-content/uploads/2019/11/gradeup_founders.jpg?resize=768,432 768w, https://techcrunch.com/wp-content/uploads/2019/11/gradeup_founders.jpg?resize=680,383 680w, https://techcrunch.com/wp-content/uploads/2019/11/gradeup_founders.jpg?resize=50,28 50w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p id=\"caption-attachment-1908209\" class=\"wp-caption-text\">Co-founders of Noida-based edtech startup Gradeup</p></div></p>\n<p>But still, only a fraction of students take online courses today. One of the roadblocks in their growth has been access to mobile data, which until recent years was fairly expensive in the country. But arrival of Reliance Jio has solved that issue, said Bhatnagar. The other is acceptance from students and more importantly, their parents. Watching a course online on a smartphone or desktop is still a new concept for many parents in the country, he said. But this, too, is beginning to change.</p>\n<p>“The first wave of online solutions were built around on-demand video content, either free or paid. Today, the next wave is online live courses like Gradeup, with teacher-student interactivity, personalisation, and adaptive learning strategies, deliver high-quality solutions that scale, which is particularly valuable in semi-urban and rural markets,” said Times Internet’s Gajwani.</p>\n<p>“These match or better the experience quality of offline education, while being more cost-effective. This trend will keep growing in India, where online live education will grow very quickly for test prep, reskilling, and professional learning,” he added.</p>\n<p>Gradeup has amassed over 15 million registered students who have enrolled to live lectures. The startup plans to use the fresh capital to expand its academic team to 100 faculty members (from 50 currently) and 200 subject matters and reach more users in smaller cities and towns in India.</p>\n<p>&#8220;Students even in smaller cities and towns are paying a hefty amount of fee and are unable to get access to high-quality teachers,&#8221; Bhatnagar said. &#8220;This is exactly the void we can fill.&#8221;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Gradeup, an edtech startup in India that operates an exam preparation platform for undergraduate and postgraduate level courses, has raised $7 million from Times Internet as it looks to expand its business in the country. Times Internet, a conglomerate in India, invested $7 million in Series A and $3 million in Seed financing rounds of [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 133574269,
+    "featured_media": 1875465,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Gradeup raises $7M to expand its online exam preparation platform to smaller Indian cities and towns https://tcrn.ch/2JQ2hMa by @refsrc"
+    },
+    "categories": [
+      449557102,
+      449557111,
+      1342,
+      576602978,
+      329026,
+      449557028,
+      20429
+    ],
+    "tags": [],
+    "crunchbase_tag": [],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-906833814.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/2JQ2hMa",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      133574269
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908207"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1908207"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908207/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908277,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908207/revisions/1908277"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/133574269"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1908207&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/133574269"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1875465"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1908207"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1908207"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1908207"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1908207"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1908207"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1908207"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1908092,
+    "date": "2019-11-04T16:36:06",
+    "date_gmt": "2019-11-05T00:36:06",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1908092"
+    },
+    "modified": "2019-11-04T16:37:59",
+    "modified_gmt": "2019-11-05T00:37:59",
+    "slug": "ubers-losses-top-1-billion-trumping-better-than-expected-revenues",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/04/ubers-losses-top-1-billion-trumping-better-than-expected-revenues/",
+    "title": {
+      "rendered": "Uber&#8217;s losses top $1 billion, trumping better than expected revenues"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\">Better than expected revenues couldn&#8217;t divert investor attention from the fact that <a class=\"crunchbase-link\" href=\"https://crunchbase.com/organization/uber\" target=\"_blank\" data-type=\"organization\" data-entity=\"uber\">Uber <span class=\"crunchbase-tooltip-indicator\"></span></a> still managed to lose more than $1 billion in the most recent quarter as the company&#8217;s stock fell in after-hours trading.</p>\n<p>There are bright spots in the latest earnings report, not least that the company managed to stanch the bleeding that had cost the company <a href=\"https://techcrunch.com/2019/08/08/uber-stock-plummets-following-second-quarter-earnings-report/\">over $5 billion in the previous quarter</a>.</p>\n<p>Revenue grew to $3.8 billion, up from $2.9 billion in the year-ago period, representing a 30% boost. But even as Uber&#8217;s core business shows signs of stabilizing and its core markets continue to show growth, its other business units appear to be hemorrhaging cash at increasingly high rates.</p>\n<div class=\"embed breakout\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"dP3NwcejZb\"><p><a href=\"https://techcrunch.com/2019/08/08/uber-stock-plummets-following-second-quarter-earnings-report/\">Uber lost more than $5B last quarter</a></p></blockquote>\n<p><iframe title=\"&#8220;Uber lost more than $5B last quarter&#8221; &#8212; TechCrunch\" class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" src=\"https://techcrunch.com/2019/08/08/uber-stock-plummets-following-second-quarter-earnings-report/embed/#?secret=dP3NwcejZb\" data-secret=\"dP3NwcejZb\" width=\"800\" height=\"450\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></div>\n<p>“Our results this quarter decisively demonstrate the growing profitability of our Rides segment,” said Dara Khosrowshahi, the company&#8217;s chief executive, in a statement. “Rides Adjusted EBITDA is up 52% year-over-year and now more than covers our corporate overhead. Revenue growth and take rates in our Eats business also accelerated nicely. We’re pleased to see the impact that continued category leadership, greater financial discipline, and an industry-wide shift towards healthier growth are already having on our financial performance.”</p>\n<p>Losses in earnings at the company&#8217;s Uber Eats business grew 67% to $316 million from $189 million in the year-ago period. And performance in the company&#8217;s freight division looks even worse. Losses in freight ballooned by 161%, growing to $81 million from $31 million in the same quarter of 2018.</p>\n<p>Also contributing to the company&#8217;s losses for the quarter were stock-based compensation expenses, which added another $401 million to the tallies against the company.</p>\n<p>Given that the lock-up period is about to end for institutional investors, that could spell even more trouble for the company &#8212; as institutional investors who bought into the company before its public offering may look to sell.</p>\n<p>That said, Uber has taken a number of steps to correct its course and put the company on a path to profitability, which Khosrowshahi <a href=\"https://www.bizjournals.com/sanfrancisco/news/2019/11/04/heres-when-ubers-ceo-says-the-company-will-make.html\">says should happen in the next two years</a>.</p>\n<div class=\"embed breakout\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"il4GzeeEix\"><p><a href=\"https://techcrunch.com/2019/10/14/uber-lays-off-another-350-across-eats-self-driving-and-other-departments/\">Uber lays off another ~350 across Eats, self-driving and other departments</a></p></blockquote>\n<p><iframe title=\"&#8220;Uber lays off another ~350 across Eats, self-driving and other departments&#8221; &#8212; TechCrunch\" class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" src=\"https://techcrunch.com/2019/10/14/uber-lays-off-another-350-across-eats-self-driving-and-other-departments/embed/#?secret=il4GzeeEix\" data-secret=\"il4GzeeEix\" width=\"800\" height=\"450\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></div>\n<p>In October, the company announced <a href=\"https://techcrunch.com/2019/10/14/uber-lays-off-another-350-across-eats-self-driving-and-other-departments/\">the last of three rounds of sweeping layoffs</a> at the company that saw 1,185 staffers lose their jobs. Khosrowshahi called the layoffs a chance to ensure that the company was &#8220;structured for success for the next few years.&#8221; In an email to staff, he wrote, “This has resulted in difficult but necessary changes to ensure we have the right people in the right roles in the right locations, and that we’re always holding ourselves accountable to top performance.”</p>\n<p>With the layoffs behind it, Uber can now focus on some of the big operational challenges it had set for itself through the reorganization that the company has announced. That includes adding new<a href=\"https://techcrunch.com/2019/10/28/heres-what-the-uber-eats-delivery-drone-looks-like/\"> features and technologies</a> to its Uber Eats delivery program (despite what <a href=\"https://www.marketwatch.com/story/grubhub-stock-tanks-after-earnings-show-disappointing-sales-forecast-2019-10-28\">recent losses at GrubHub may imply about the food delivery business</a>) and pressing forward with another darling of the tech set these days &#8212; the <a href=\"https://techcrunch.com/2019/10/28/uber-money/\">company&#8217;s financial services platform</a>.</p>\n<div class=\"embed breakout\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"E9uZZXKWkq\"><p><a href=\"https://techcrunch.com/2019/10/28/uber-money/\">Uber Money is Uber&#8217;s new team focused on financial products and services</a></p></blockquote>\n<p><iframe title=\"&#8220;Uber Money is Uber&#8217;s new team focused on financial products and services&#8221; &#8212; TechCrunch\" class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" src=\"https://techcrunch.com/2019/10/28/uber-money/embed/#?secret=E9uZZXKWkq\" data-secret=\"E9uZZXKWkq\" width=\"800\" height=\"450\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></div>\n<p>The launch of this new platform, coupled with<a href=\"https://techcrunch.com/2019/09/26/uber-uber-eats/\"> a slew of announcements</a> from the company in September, show that Uber may have dialed back on its ambitions, but not by much. As Khosrowshahi said at the event, “We want to be the operating system for your everyday life&#8230;. A one-click gateway to everything that Uber can offer you.”</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Better than expected revenues couldn&#8217;t divert investor attention from the fact that Uber still managed to lose more than $1 billion in the most recent quarter as the company&#8217;s stock fell in after-hours trading. There are bright spots in the latest earnings report, not least that the company managed to stanch the bleeding that had [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 59254947,
+    "featured_media": 1900696,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Uber&#8217;s losses top $1 billion trumping better than expected revenues https://tcrn.ch/34qrpRa by @jshieber"
+    },
+    "categories": [
+      42919851,
+      20429,
+      17396,
+      2401
+    ],
+    "tags": [
+      217609
+    ],
+    "crunchbase_tag": [
+      201033860
+    ],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-922945940.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/34qrpRa",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [
+      {
+        "slug": "uber",
+        "cb_name": "Uber",
+        "cb_slug": "uber-organization",
+        "cb_link": "https://crunchbase.com/organization/uber"
+      }
+    ],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      59254947
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908092"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1908092"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908092/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908158,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908092/revisions/1908158"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/59254947"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1908092&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/59254947"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1900696"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1908092"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1908092"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1908092"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1908092"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1908092"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1908092"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1908089,
+    "date": "2019-11-04T15:20:05",
+    "date_gmt": "2019-11-04T23:20:05",
+    "guid": {
+      "rendered": "https://techcrunch.com/?p=1908089"
+    },
+    "modified": "2019-11-04T17:19:03",
+    "modified_gmt": "2019-11-05T01:19:03",
+    "slug": "workday-to-acquire-online-procurement-platform-scout-rfp-for-540m",
+    "status": "publish",
+    "type": "post",
+    "link": "https://techcrunch.com/2019/11/04/workday-to-acquire-online-procurement-platform-scout-rfp-for-540m/",
+    "title": {
+      "rendered": "Workday to acquire online procurement platform Scout RFP for $540M"
+    },
+    "content": {
+      "rendered": "<p id=\"speakable-summary\"><a href=\"http://workday.com\">Workday</a> announced this afternoon that it has entered into an agreement to acquire online procurement platform <a href=\"http://www.scoutrfp.com/\">Scout RFP</a> for $540 million. The company raised more than $60 million on a post valuation of $184.5 million, according to<a href=\"https://my.pitchbook.com/profile/104701-51/company/profile#comparisons\"> PitchBook data</a>.</p>\n<p>The acquisition builds on top of <a class=\"crunchbase-link\" href=\"https://crunchbase.com/organization/workday\" target=\"_blank\" data-type=\"organization\" data-entity=\"workday\">Workday&#8217;s <span class=\"crunchbase-tooltip-indicator\"></span></a> existing procurement solutions, Workday Procurement and Workday Inventory, but Workday chief product product officer Petros Dermetzis wrote<a href=\"https://blogs.workday.com/workday-acquire-scout-rfp-helping-transform-office-procurement/\"> in a blog post</a> announcing the deal that Scout gives the company a more complete solution for customers.</p>\n<p>&#8220;With increased importance around the supplier as a strategic asset, the acquisition of <a class=\"crunchbase-link\" href=\"https://crunchbase.com/organization/scout-rfp\" target=\"_blank\" data-type=\"organization\" data-entity=\"scout-rfp\">Scout RFP <span class=\"crunchbase-tooltip-indicator\"></span></a> will help accelerate Workday’s ability to deliver a comprehensive source-to-pay solution with a best-in-class strategic sourcing offering, elevating the office of procurement in strategic importance and transforming the procurement function,&#8221; he wrote.</p>\n<p>Ray Wang, founder and principal analyst at Constellation Research says that Workday has been trying to be the end-to-end cloud back office player. He says, &#8220;One of their big gaps has been in procurement.&#8221;</p>\n<p>Wang says that Workday has been investing with eye toward filling gaps in the product set for some time. In fact, <a class=\"crunchbase-link\" href=\"https://crunchbase.com/organization/workday-ventures\" target=\"_blank\" data-type=\"organization\" data-entity=\"workday-ventures\">Workday Ventures <span class=\"crunchbase-tooltip-indicator\"></span></a> has been an investor in Scout RFP since 2018, and it&#8217;s also an official Workday partner.</p>\n<p>&#8220;A lot of the Workday investments are in portfolio companies that are complimentary to Workday&#8217;s larger vision of the future of Cloud ERP. Today&#8217;s definition of ERP includes finance, HCM (human capital management), projects, procurement, supply chain and asset management,&#8221; Wang told TechCrunch.</p>\n<p>As the Scout RFP founders stated <a href=\"https://www.scoutrfp.com/2019/11/were-just-getting-started/\">in a blog post</a> about today&#8217;s announcement, the two companies have worked well together and a deal made sense. &#8220;Working closely with the Workday team, we realized how similar our companies’ beliefs and values are. Both companies put user experience at the center of product focus and are committed to customer satisfaction, employee engagement and overall business impact. It was not surprising how easy it was to work together and how quickly we saw success partnering on go-to-market activities. From a culture standpoint, it just worked,&#8221; they wrote. A deal eventually came together as a result.</p>\n<p>Scout RFP is a fairly substantial business, with 240 customers in 155 countries. There are 300,000 users on the platform, according to data supplied by the company. The company&#8217;s 160 employees will be moving to Workday when the deal closes, which is expected<span style=\"font-size: 1.125rem; letter-spacing: -0.1px;\"> by the end of January, pending standard regulatory review.</span></p>\n<div class=\"embed breakout\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"Vob6w0cQNo\"><p><a href=\"https://techcrunch.com/2017/06/07/scout-rfp-raises-15-5-million-to-help-companies-manage-purchases/\">Scout RFP raises $15.5 million to help companies manage purchases</a></p></blockquote>\n<p><iframe title=\"&#8220;Scout RFP raises $15.5 million to help companies manage purchases&#8221; &#8212; TechCrunch\" class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" src=\"https://techcrunch.com/2017/06/07/scout-rfp-raises-15-5-million-to-help-companies-manage-purchases/embed/#?secret=Vob6w0cQNo\" data-secret=\"Vob6w0cQNo\" width=\"800\" height=\"450\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Workday announced this afternoon that it has entered into an agreement to acquire online procurement platform Scout RFP for $540 million. The company raised more than $60 million on a post valuation of $184.5 million, according to PitchBook data. The acquisition builds on top of Workday&#8217;s existing procurement solutions, Workday Procurement and Workday Inventory, but [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 521068,
+    "featured_media": 1908095,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "outcome": "",
+      "status": "",
+      "crunchbase_tag": 0,
+      "amp_status": "",
+      "relegenceEntities": [],
+      "relegenceSubjects": [],
+      "jetpack_publicize_message": "Workday to acquire online procurement platform Scout RFP for $540M https://tcrn.ch/2NgZhdO by @ron_miller"
+    },
+    "categories": [
+      24405894,
+      449557044,
+      576602980,
+      60523764,
+      449560964,
+      20429,
+      17396
+    ],
+    "tags": [
+      103613,
+      576594991,
+      452952,
+      375417142
+    ],
+    "crunchbase_tag": [],
+    "tc_stories_tax": [],
+    "tc_event": [],
+    "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-941900360.jpg",
+    "jetpack_publicize_connections": [],
+    "shortlink": "https://tcrn.ch/2NgZhdO",
+    "rapidData": {
+      "pt": "",
+      "pct": ""
+    },
+    "featured": false,
+    "subtitle": "",
+    "fundingRound": false,
+    "seoTitle": "",
+    "seoDescription": "",
+    "premiumContent": false,
+    "premiumCutoffPercent": 1,
+    "tc_cb_mapping": [
+      {
+        "slug": "workday",
+        "cb_name": "Workday",
+        "cb_slug": "workday-organization",
+        "cb_link": "https://crunchbase.com/organization/workday"
+      },
+      {
+        "slug": "workday-ventures",
+        "cb_name": "Workday Ventures",
+        "cb_slug": "workday-ventures-organization",
+        "cb_link": "https://crunchbase.com/organization/workday-ventures"
+      },
+      {
+        "slug": "scout-rfp",
+        "cb_name": "Scout RFP",
+        "cb_slug": "scout-rfp-organization",
+        "cb_link": "https://crunchbase.com/organization/scout-rfp"
+      }
+    ],
+    "associatedEvent": null,
+    "event": null,
+    "authors": [
+      983141
+    ],
+    "hideFeaturedImage": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908089"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=1908089"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 14,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908089/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1908204,
+          "href": "https://techcrunch.com/wp-json/wp/v2/posts/1908089/revisions/1908204"
+        }
+      ],
+      "authors": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/guest-authors/ronjourn"
+        }
+      ],
+      "https://techcrunch.com/edit": [
+        {
+          "href": "https://techcrunch.com/wp-admin/post.php?post=1908089&action=edit"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/tc/v1/users/521068"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/media/1908095"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=1908089"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=1908089"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=1908089"
+        },
+        {
+          "taxonomy": "_tc_cb_tag_taxonomy",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=1908089"
+        },
+        {
+          "taxonomy": "tc_stories_tax",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=1908089"
+        },
+        {
+          "taxonomy": "tc_event",
+          "embeddable": true,
+          "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=1908089"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
